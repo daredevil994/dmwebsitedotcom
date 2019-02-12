@@ -1,0 +1,299 @@
+body {
+	
+	margin:0px;
+}
+a {
+	color: white;
+	 
+	text-decoration: none;
+
+}
+.front{
+	position: relative;
+	top:-46px;
+}
+.wrap {
+	font-family: sans-serif;
+	height: 800px;
+	width:800px;
+	background: red;
+	overflow: hidden;
+	color: white;
+	text-shadow: 2px 5px 10px black ;
+}
+#img1 {
+	position: absolute;
+	top:12px;
+}
+
+#FDM {
+	position: relative;
+	font-family:sans-serif;
+	text-align: center;
+	text-shadow: 2px 5px 10px black ;
+}
+.tittle h2{
+	position: relative;
+	top:-10px;
+	left:128px;
+	font-size: 25px;
+}
+#img2{
+	position: relative;
+	top:-160px;
+}
+#dumki{
+	position: relative;
+	top:-15px;
+	text-align:center;
+}
+.tittle h6{
+	position: relative;
+	top: -112px;
+}
+.loginbox{
+	color: white;
+	
+	position: relative;
+	top:-35px;
+	background: blue;
+	text-align: left;
+	text-shadow: 0px 4px 8px grey ;
+}
+#checkbox{
+	width: 220px;
+	color: black;
+	font-family: arial;
+	font-size: 12px;
+	margin-top: -25px;
+	text-align: center;
+	margin-left: -30px;
+	padding-top: 10px;
+}
+#password{
+	margin-top:-25px;
+}
+
+#login {
+	position: relative;
+	margin-left: 5px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+#submit{
+	text-align: center;	
+	margin-top: -25px;
+	margin-left:-10px; ;
+}
+
+.contents , aside { 
+	height:600px;
+}
+aside {
+	position: relative;
+	top:28px;
+	background-color: grey;
+	float:left;
+	width:70%;
+}
+
+aside ul li {
+	color: pink;
+	text-decoration: underline;
+	list-style: lower-greek;
+	text-align: left;
+	padding-bottom: 20px;
+
+}
+.news h2{
+	font-family: arial black;
+	text-align: center;
+	color: white;
+}
+#view_more a{
+	color: red;
+	text-decoration: none;
+	font-family: arial black;
+}
+.contents {
+
+	width:30%;
+	position: relative;
+	top:-98px;right:;
+	list-style: none;
+	background-color: black;
+	font-family: arial black;
+	float:right;
+	text-align: center;
+
+}
+.contents li{
+	display: list-item;
+	list-style: none;
+	padding-bottom: 25px;
+	margin-right: 30px;
+	text-shadow: 1px 2px 10px grey; 	
+}
+.contents ul a:hover{
+	text-decoration: underline;	
+}
+aside li a{
+	text-shadow: 0px 0px 0px;
+	color: white;
+}
+}
+
+
+.news h2{
+	color:white;
+}
+
+
+
+.copyright {
+	height:30px;
+	width:500px;
+	position:relative;
+	bottom:-45px;
+	left: 30px;
+	text-align:left;
+	color: yellow;	
+}
+
+
+
+
+
+
+
+
+
+.wrap_dept {
+	font-family: sans-serif;
+	height:680px;
+	width:800px;
+	background: brown;
+	overflow: hidden;
+	color: white;
+	text-shadow: 2px 5px 10px black ;
+}
+.dept_list  h2{
+	
+	text-align: center;
+	text-decoration: underline;
+	position: relative;
+	top:20px;
+	left:60px;
+	text-shadow: 2px -2px -0px red;
+}
+.dept_list {
+	color: white;
+	width: 800px;
+	height: 500px;
+	background: black;
+	position:relative;
+	top:25px;
+	text-shadow: 2px -2px 8px grey
+}
+.dept_list li{
+	padding: 10px;
+}
+.dept_list ol{
+	margin-top: 60px;
+}
+.dept_list ol a:hover{
+	text-decoration: underline;
+	color: red;
+}
+.dept_list  h4{
+	text-align: center;
+	position: relative;
+	bottom:-170px;
+	
+}
+.dept_list h4 a:hover{
+	text-decoration: underline;
+	color: red;
+}
+.dept_copyright{
+	height:30px;
+	width:500px;
+	position:relative;
+	left:150px;bottom:-10px;
+	text-align:center;
+	color: yellow;
+}
+
+
+
+.wrapinfo {
+	font-family: sans-serif;
+	height: 800px;
+	width:800px;
+	background-color: black;
+	
+	color: white;
+	
+#front_informations {
+	width:800px;
+	height: 500px;
+	position: relative;
+	top:30px;
+	background-color: white;
+	color: black;
+	text-shadow: 2px 4px 10px grey ;
+}
+#front_informations p{
+	font-size: 18px;
+	color: black;
+	padding: 20px;
+
+}
+#front_informations strong{
+	color: red;
+}
+.info_content ul{
+	list-style: none;
+	position: relative;
+	left: -25px;
+	bottom:-30px;
+}
+.info_backtohome a{
+	color: red;
+	position: relative;
+	top:45px;
+	left:330px;
+
+}
+
+
+
+
+
+
+
+
+.form {
+	padding-left: 0;
+	color: black;
+	font-weight: bold;
+	background-color: grey;
+	list-style: none;
+	height:480px;
+	text-align: center;
+}
+
+.signup p {
+	font-size: 18px;
+	height:75px;
+	margin:auto;
+	background-color: black;
+	color: grey;
+}
+.signup {
+	overflow: hidden;
+}
+	
+.form li{
+	padding-top: 10px;

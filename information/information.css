@@ -1,0 +1,89 @@
+body{
+	margin:center;
+
+}
+a{	
+	color:white;
+	text-decoration: none;
+}
+
+.wrapinfo {
+	font-family: sans-serif;
+	height: 800px;
+	width:800px;
+	background-color: black;
+	text-shadow: 2px 5px 10px white ;
+}
+#img1 {
+	position: relative;
+	top:12px;
+}
+
+#FDM {
+	position: relative;
+	left:-65px;
+	top:20px;
+	font-family:sans-serif;
+	text-align: center;
+	text-shadow: 2px 5px 10px white ;
+}
+.tittle h2{
+	position: relative;
+	top:15px;
+	left:5px;
+	font-size: 25px;
+	
+}
+#img2{
+	position: relative;
+	top:-135px;
+}
+#dumki{
+	position: relative;
+	top:10px;
+	left:-60px;
+	text-align:center;
+}
+#FDM,#img1,#img2, .tittle h2,#dumki{
+	color:white;
+}
+
+.frontinfo{
+	position: relative;
+	top:5px;
+	background: white;
+	height:400px;
+	
+}
+.frontinfo p{
+	color: black;
+	padding:25px;
+	position: relative;
+	top:15px;
+	text-shadow: 2px 0px 10px grey;
+}
+
+.infocont ul{
+
+	list-style: none;
+	color: white;
+	text-shadow: 1px 2px 10px grey;
+}
+ .infocont ul a:hover{
+	color:red;
+	font-weight: bold;
+}
+.info_backtohome a{
+	color:red;
+	text-shadow: 1px 2px 10px brown;
+	position:relative;
+	left:;
+	top:30px;
+}
+.copyright{
+	color:yellow;
+	text-shadow: 1px 1px 10px white;
+	position: relative;
+	top:50px;
+	left:160px;
+}
